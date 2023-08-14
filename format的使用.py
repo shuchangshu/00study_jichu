@@ -25,5 +25,5 @@ print("你好")
 print("它也好")
 lenth1=int(input("你好"))
 jisuan(lenth1)
-print("ncnaocnaoc")
+
 
